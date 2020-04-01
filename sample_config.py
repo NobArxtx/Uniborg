@@ -133,7 +133,7 @@ class Config(object):
     CHROME_DRIVER = os.environ.get("CHROME_DRIVER", None)
     CHROME_BIN = os.environ.get("CHROME_BIN", None)
     #
-    RAVANA_LEELA = os.environ.get("RAVANA_LEELA", None)
+    AUTO_PROFILE_URL = os.environ.get("AUTO_PROFILE_URL", None)
     #
     SPOTIFY_USERNAME = os.environ.get("SPOTIFY_USERNAME", None)
     #
