@@ -217,7 +217,7 @@
       "value": "-100",
       "required": false
     },
-    "AUTO_PROFILE_URL": {
+    "RAVANA_LEELA": {
       "description": "TO ADD TIME ON YOUR PROFILE PIC, ADD LINK OF IMAGE ENDING WITH .JPG",
       "value": "https://telegra.ph/file/674ef67d845b4304823d3.jpg",
       "required": false
