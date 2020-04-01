@@ -1,18 +1,15 @@
 {
   "name": "Uniborg",
   "description": "Modded Uniborg",
-
-"keywords": [
-    "sex",
-    "porn",
-    "xxx",
-    "dick",
-    "vagina",
-    "boobs"
+  "keywords": [
+    "Uniborg",
+    "Userbot",
+    "Spechide",
+    "Telegram",
+    "Telegraph",
+    "Heroku"
   ],
   "repository": "https://gitlab.com/SpEcHiDe/UniBorg",
-  "website": "https://telegram.dog/UniBorg",
-  "success_url": "https://telegram.dog/r4v4n4",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable environment variables.",
@@ -73,7 +70,7 @@
     },
     "TELEGRAPH_SHORT_NAME": {
       "description": "This is required for the @telegraph functionality.",
-      "value": "LUCIFERTHEKING",
+      "value": "Atext",
       "required": false
     },
     "OCR_SPACE_API_KEY": {
@@ -220,7 +217,7 @@
       "value": "-100",
       "required": false
     },
-    "RAVANA_LEELA": {
+    "AUTO_PROFILE_URL": {
       "description": "TO ADD TIME ON YOUR PROFILE PIC, ADD LINK OF IMAGE ENDING WITH .JPG",
       "value": "https://telegra.ph/file/674ef67d845b4304823d3.jpg",
       "required": false
